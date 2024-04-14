@@ -5,3 +5,4 @@ google-generativeai
 streamlit
 pandas
 python-dotenv
+llama-index-experimental

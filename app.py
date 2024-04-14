@@ -9,7 +9,7 @@ from llama_index.core.query_pipeline import (
     Link,
     InputComponent,
 )
-from llama_index.core.query_engine.pandas import PandasInstructionParser
+from llama_index.experimental.query_engine.pandas import PandasInstructionParser
 from llama_index.core import PromptTemplate
 load_dotenv()
 
